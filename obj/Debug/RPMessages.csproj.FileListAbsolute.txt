@@ -1,0 +1,17 @@
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\RPMessages.dll.config
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\RPMessages.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\RPMessages.pdb
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\Assembly-CSharp.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\Rocket.API.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\Rocket.Core.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\Rocket.Unturned.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\SDG.NetTransport.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\Steamworks.NET.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\UnityEngine.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\obj\Debug\RPMessages.csproj.AssemblyReference.cache
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\obj\Debug\RPMessages.csproj.CoreCompileInputs.cache
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\obj\Debug\RPMessages.csproj.CopyComplete
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\obj\Debug\RPMessages.dll
+C:\Users\Макар Сергеевич\Downloads\Unturned-RP-Chat-main\obj\Debug\RPMessages.pdb
